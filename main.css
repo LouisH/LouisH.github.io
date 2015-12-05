@@ -1,0 +1,60 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://wallpapersboom.net/wp-content/uploads/2015/08/2549_danica_patrick.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+ h2 {
+	padding: 1cm 1cm 1cm 1cm;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.basics {
+    background-color: eefef0f;
+    border-bottom: 1px solid #dbdbdb;
+    }
+    
+.basics h2 {
+    color: #393c3d;
+    font-size: 24px;
+    }
+    
+.basics p {
+    font-size: 15px;
+    margin-bottom: 13px;
+    }
+	
+body {
+	background-color: #62E040;
+}
+	
+
+	
